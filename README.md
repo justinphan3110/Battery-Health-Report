@@ -102,6 +102,7 @@ And add it into Eclipse project library
 * [Renjin](http://www.renjin.org/)
 * [Renjin Document and Instruction](http://docs.renjin.org/en/latest/)
 * [JSoup](https://jsoup.org/)
+* [JFreeChart](http://www.jfree.org/jfreechart/)
 * [Capturing results from Renjin](http://docs.renjin.org/en/latest/library/capture.html)
 * [Insert command on cmd through Java](https://www.geeksforgeeks.org/java-program-open-command-prompt-insert-commands/)
 * [Hash Map](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
