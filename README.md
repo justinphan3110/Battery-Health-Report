@@ -110,5 +110,5 @@ And add it into Eclipse project library
 
 
 ## Author
-  Long Phan 
+  [Long Phan](https://github.com/justinphan3110)
 
