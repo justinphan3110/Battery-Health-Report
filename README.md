@@ -1,5 +1,5 @@
 # Battery-Health-Report
-Get and Analyzed your laptop battery health report. Compare the current with design capacity
+USING R AND JAVA to Get and Analyzed your laptop battery health report. Compare the current with design capacity
 
 The battery capacity will decrease over time. This application will help you to track the current capacity compared to the design capacity
 
