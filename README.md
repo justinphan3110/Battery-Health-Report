@@ -67,14 +67,14 @@ Most of the API is build based on javaFX
 
 
 ### Installing
-#### Option 1: Download the BatteryHealthReport folder and run the .exe file (note: keep the jar and the .exe file in the same folder)
+#### Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and run the .exe file (note: keep the jar and the .exe file in the same folder)
 
 ![image](https://user-images.githubusercontent.com/44376091/53464827-c5e19700-3a19-11e9-91d0-5bcd14a1a79a.png)
 
 
-#### Option 2: I have provide the code and neccessary lib folder to implement this in any IDE. You can make a java class name BatteryReport.java and a folder name lib in the project folder
+#### Option 2: I have provide the code and neccessary [lib folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib) to implement this in any IDE. You can make a java class name BatteryReport.java and a folder name lib in the project folder
 
-In this Lib folder, copy all of the requirement .jar file to it. You can download them directly from this Repositories or I provide the link to download each of them below
+In this [Lib folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib), copy all of the requirement .jar file to it. You can download them directly from this Repositories or I provide the link to download each of them below
 
 ![image](https://user-images.githubusercontent.com/44376091/52917775-5a7f2300-32bd-11e9-8e0c-09a1ebe35275.png)
 
