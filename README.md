@@ -67,8 +67,12 @@ Most of the API is build based on javaFX
 
 
 ### Installing
-Currently, due to the bugs in Renjin I couldn't execute the final .Jar file for this program. Therefore, I have provide the code and 
-neccessary lib folder to implement this in any IDE. You can make a java class name BatteryReport.java and a folder name lib in the project folder
+#### Option 1: Download the BatteryHealthReport folder and run the .exe file (note: keep the jar and the .exe file in the same folder)
+
+![image](https://user-images.githubusercontent.com/44376091/53464827-c5e19700-3a19-11e9-91d0-5bcd14a1a79a.png)
+
+
+#### Option 2: I have provide the code and neccessary lib folder to implement this in any IDE. You can make a java class name BatteryReport.java and a folder name lib in the project folder
 
 In this Lib folder, copy all of the requirement .jar file to it. You can download them directly from this Repositories or I provide the link to download each of them below
 
