@@ -69,7 +69,8 @@ Most of the API is build based on javaFX
 
 
 ### Installing
-#### Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and run the .exe file (note: keep the jar and the .exe file in the same folder)
+#### Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and run the .exe file (note: keep the jar and the .exe file in the same folder).
+###### If your computer does not have Java you need to unzip the jre1.8.rar in the BatteryHealthReport Folder
 
 ![image](https://user-images.githubusercontent.com/44376091/53464827-c5e19700-3a19-11e9-91d0-5bcd14a1a79a.png)
 
