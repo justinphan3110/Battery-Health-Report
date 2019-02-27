@@ -26,6 +26,8 @@ two windows of a point plot and a csv file will pop up give the the data how you
 
 ![image](https://user-images.githubusercontent.com/44376091/52910219-5376f700-3262-11e9-82e5-3b55b2792802.png)
 
+
+
 ### Prerequisites
 
 I will use cmd commnad to generate a battery-report.html and using Jsoup.jar to parsing this file and read it into a csv file. 
