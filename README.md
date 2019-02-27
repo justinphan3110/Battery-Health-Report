@@ -79,6 +79,8 @@ Most of the API is build based on javaFX
 
 ![image](https://user-images.githubusercontent.com/44376091/53507369-bf890480-3a85-11e9-8933-4923b5a21d29.png)
 
+###### Note: If you run on the version of WithJava and the application stop working after you click scan, there may be a chance that your laptop is using Java 32 bit. Therefore, you can either change it back to 64 bits or use the NoJava.rar version
+
 
 
 #### Option 2: I have provide the [code](https://github.com/justinphan3110/Battery-Health-Report/blob/master/BatteryReport.java) and neccessary [lib folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib) to implement this in any IDE. You can make a java class name BatteryReport.java and a folder name lib in the project folder
