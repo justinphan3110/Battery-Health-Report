@@ -69,10 +69,17 @@ Most of the API is build based on javaFX
 
 
 # Installing
-#### Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and run the .exe file (note: keep the jar and the .exe file in the same folder).
-###### If your computer does not have Java you need to unzip the jre1.8.rar in the BatteryHealthReport Folder
+#### Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and unrar the withJava.rar if your computer have Java installed or unrar the NoJava.rar if your computer does not have java installed 
+###### (note: keep the jar and the .exe file in the same folder).
 
-![image](https://user-images.githubusercontent.com/44376091/53466529-54591700-3a20-11e9-940d-9abd46b3cd99.png)
+![image](https://user-images.githubusercontent.com/44376091/53507163-5a351380-3a85-11e9-8fc9-1ac4db75581e.png)
+
+
+##### Click on battery.exe to run
+
+![image](https://user-images.githubusercontent.com/44376091/53507369-bf890480-3a85-11e9-8933-4923b5a21d29.png)
+
+###### Note: If you run on the version of WithJava and the application stop working after you click scan, there may be a chance that your laptop is using Java 32 bit. Therefore, you can either change it back to 64 bits or use the NoJava.rar version
 
 
 
