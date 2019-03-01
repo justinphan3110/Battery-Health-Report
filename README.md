@@ -106,17 +106,17 @@ And add it into Eclipse project library
 
 ##### Or you can download each of the dependencies straight from the web for updated
 
-:one:![image](https://user-images.githubusercontent.com/44376091/52910412-0f392600-3265-11e9-8e7b-a26dc0184ba1.png)
+![image](https://user-images.githubusercontent.com/44376091/52910412-0f392600-3265-11e9-8e7b-a26dc0184ba1.png)
 
-:two:[jsoup](https://jsoup.org/download): for the purpose of parsing and reading the html file.
+:one:[jsoup](https://jsoup.org/download): for the purpose of parsing and reading the html file.
 
-:three:[opencsv](https://sourceforge.net/projects/opencsv/): can be used to write and read csv file 
+:two:[opencsv](https://sourceforge.net/projects/opencsv/): can be used to write and read csv file 
 
-:four:[Renjin](http://www.renjin.org/downloads.html): using JVM to intergrate Java and R for better data analysize (note: user does not need to have R installed on computer when using Renjin)
+:three:[Renjin](http://www.renjin.org/downloads.html): using JVM to intergrate Java and R for better data analysize (note: user does not need to have R installed on computer when using Renjin)
 
-:five:[JRI](https://www.rforge.net/JRI/files/): user can used JRI for the familiar if Renjin is still new
+:four:[JRI](https://www.rforge.net/JRI/files/): user can used JRI for the familiar if Renjin is still new
 
-:six:[JCommon](https://jar-download.com/artifacts/org.jfree/jcommon) and :seven:[JFreeChart](http://www.jfree.org/jfreechart/download.html):  for the purpose of drawing the plot
+:five:[JCommon](https://jar-download.com/artifacts/org.jfree/jcommon) and :six:[JFreeChart](http://www.jfree.org/jfreechart/download.html):  for the purpose of drawing the plot
 
 
 
