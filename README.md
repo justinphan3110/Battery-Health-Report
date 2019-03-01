@@ -3,6 +3,8 @@ USING R AND JAVA to Get and Analyzed your laptop battery health report. Compare 
 
 The battery capacity will decrease over time. This application will help you to track the current capacity compared to the design capacity
 
+### Click here to got to [Install](#Installing) and [Download](#Download) section
+
 click Scan
 
 
@@ -69,7 +71,7 @@ Most of the API is build based on javaFX
 
 
 # Installing
-#### Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and unrar the withJava.rar if your computer have Java installed or unrar the NoJava.rar if your computer does not have java installed 
+#### Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and unzip the withJava.zip if your computer have Java (64-bit) installed OR unzip the NoJava.zip if your computer does not have java installed 
 ###### (note: keep the jar and the .exe file in the same folder).
 
 ![image](https://user-images.githubusercontent.com/44376091/53507163-5a351380-3a85-11e9-8fc9-1ac4db75581e.png)
@@ -79,7 +81,7 @@ Most of the API is build based on javaFX
 
 ![image](https://user-images.githubusercontent.com/44376091/53507369-bf890480-3a85-11e9-8933-4923b5a21d29.png)
 
-###### Note: If you run on the version of WithJava and the application stop working after you click scan, there may be a chance that your laptop is using Java 32 bit. Therefore, you can either change it back to 64 bits or use the NoJava.rar version
+###### Note: If you run on the version of WithJava and the application stop working after you click scan, there may be a chance that your laptop is using Java 32-bit. Therefore, you can either change it back to 64 bits or use the NoJava.rar version. [Check JVM 64-bit or 32-bit](https://stackoverflow.com/questions/2062020/how-can-i-tell-if-im-running-in-64-bit-jvm-or-32-bit-jvm-from-within-a-program)
 
 
 
@@ -127,7 +129,6 @@ And add it into Eclipse project library
 * [Hash Map](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
 * [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)
 * [JavaFX Dialog](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Dialog.html)
-
 
 ## Author
   [Long Phan](https://github.com/justinphan3110)
