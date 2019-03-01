@@ -79,7 +79,7 @@ Most of the API is build based on javaFX
 
 ![image](https://user-images.githubusercontent.com/44376091/53507369-bf890480-3a85-11e9-8933-4923b5a21d29.png)
 
-###### Note: If you run on the version of WithJava and the application stop working after you click scan, there may be a chance that your laptop is using Java 32-bit. Therefore, you can either change it back to 64 bits or use the NoJava.rar version
+###### Note: If you run on the version of WithJava and the application stop working after you click scan, there may be a chance that your laptop is using Java 32-bit. Therefore, you can either change it back to 64 bits or use the NoJava.rar version. [Check JVM 64-bit or 32-bit](https://stackoverflow.com/questions/2062020/how-can-i-tell-if-im-running-in-64-bit-jvm-or-32-bit-jvm-from-within-a-program)
 
 
 
@@ -127,7 +127,6 @@ And add it into Eclipse project library
 * [Hash Map](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
 * [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm)
 * [JavaFX Dialog](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Dialog.html)
-
 
 ## Author
   [Long Phan](https://github.com/justinphan3110)
