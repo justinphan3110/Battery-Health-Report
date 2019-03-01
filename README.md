@@ -5,6 +5,8 @@ The battery capacity will decrease over time. This application will help you to 
 
 ### Click here to got to [Install](#Installing) and [Download](#Download) section
 
+### Demo
+
 click Scan
 
 
