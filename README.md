@@ -3,7 +3,7 @@ USING R AND JAVA to Get and Analyzed your laptop battery health report. Compare 
 
 The battery capacity will decrease over time. This application will help you to track the current capacity compared to the design capacity
 
-#### :arrow_forward: Click here to got to [Install](#Installing) and [Download](#Download) section
+#### :arrow_forward: Click here to got to [Install](#Installing) and [Download](#:open_file_folder:Download) section
 
 ## :notebook: Demo
 
