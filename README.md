@@ -102,7 +102,7 @@ And add it into Eclipse project library
 # Download
 
 
-#### [Code](https://github.com/justinphan3110/Battery-Health-Report/blob/master/BatteryReport.java) and [Lib Folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib)
+#### :arrow_down: [Code](https://github.com/justinphan3110/Battery-Health-Report/blob/master/BatteryReport.java) and :arrow_down: [Lib Folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib)
 
 ##### Or you can download each of the dependencies straight from the web for updated
 
