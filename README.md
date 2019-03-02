@@ -3,7 +3,7 @@ USING R AND JAVA to Get and Analyzed your laptop battery health report. Compare 
 
 The battery capacity will decrease over time. This application will help you to track the current capacity compared to the design capacity
 
-#### :arrow_forward: Click here to got to [Install](#:file_folder:Installing) and [Download](#Download) section
+#### :arrow_forward: Click here to got to [Install](#Installing) and [Download](#Download) section
 
 ## :notebook: Demo
 
@@ -72,7 +72,7 @@ Most of the API is build based on javaFX
 
 
 
-# :file_folder: Installing
+# Installing
 #### :fast_forward:Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and unzip the withJava.zip if your computer have Java (64-bit) installed OR unzip the NoJava.zip if your computer does not have java installed 
 ###### (:heavy_exclamation_mark:note: keep the jar and the .exe file in the same folder).
 
@@ -122,7 +122,7 @@ And add it into Eclipse project library
 
 
  
-## Built With
+## :bookmark_tabs: Built With
 * [Renjin](http://www.renjin.org/)
 * [Renjin Document and Instruction](http://docs.renjin.org/en/latest/)
 * [JSoup](https://jsoup.org/)
