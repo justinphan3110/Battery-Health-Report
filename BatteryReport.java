@@ -61,7 +61,7 @@ public class BatteryReport extends Application {
 	private static Map<String, String> overView = new LinkedHashMap<>();
 
 	// Battery Info
-	private static String battery;
+
 	private static final String batteryName = "NAME";
 	private static final String manufacture = "MANUFACTURE";
 	private static final String serialNumber = "SERIAL NUMBER";
@@ -235,7 +235,7 @@ public class BatteryReport extends Application {
 		/*If it is week the sequence generate by 1 unit each time 
 		 * If it is day it will use the formula below to generate the fraction of a week 
 		 */
-		engine.eval("data[nchar(data$Date) > 10, 1] <- seq(1,length , 1)");
+		engine.eval("if(length > 1) {data[nchar(data$Date) > 10, 1] <- seq.int(1, length, 1)}");
 		engine.eval("data[nchar(data$Date) == 10,1 ]  <- seq(length, length + length2*0.14, 0.14285)");
 		engine.eval("data$Date <- as.double(data$Date)");
 		
