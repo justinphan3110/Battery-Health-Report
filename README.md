@@ -69,9 +69,6 @@ battery decrease in terms of weeks since it was first used.
 Most of the API is build based on javaFX
 
 
-
-
-
 # Installing
 #### :fast_forward:Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and unzip the withJava.zip if your computer have Java (64-bit) installed OR unzip the NoJava.zip if your computer does not have java installed 
 ###### (:heavy_exclamation_mark:note: keep the jar and the .exe file in the same folder).
@@ -85,19 +82,54 @@ Most of the API is build based on javaFX
 
 ###### Note: If you run on the version of WithJava and the application stop working after you click scan, there may be a chance that your laptop is using Java 32-bit. Therefore, you can either change it back to 64 bits or use the NoJava.rar version. [Check JVM 64-bit or 32-bit](https://stackoverflow.com/questions/2062020/how-can-i-tell-if-im-running-in-64-bit-jvm-or-32-bit-jvm-from-within-a-program)
 
+## Maven Setting(Pom.xml)
+
+### Dependencies
+	<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.jfree/jcommon -->
+		<dependency>
+			<groupId>org.jfree</groupId>
+			<artifactId>jcommon</artifactId>
+			<version>1.0.23</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.jfree/jfreechart -->
+		<dependency>
+			<groupId>org.jfree</groupId>
+			<artifactId>jfreechart</artifactId>
+			<version>1.0.19</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.nuiton.thirdparty/JRI -->
+		<dependency>
+			<groupId>org.nuiton.thirdparty</groupId>
+			<artifactId>JRI</artifactId>
+			<version>0.9-6</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
+		<dependency>
+			<groupId>org.jsoup</groupId>
+			<artifactId>jsoup</artifactId>
+			<version>1.11.3</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+		<dependency>
+			<groupId>com.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>4.5</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.renjin/renjin-script-engine -->
+		<dependency>
+			<groupId>org.renjin</groupId>
+			<artifactId>renjin-script-engine</artifactId>
+			<version>RELEASE</version>
+		</dependency>
+	</dependencies>
+### Build
+For more concise, the full build set up and the above repositories and dependencies can be access [pom.xml](https://github.com/justinphan3110/Battery-Health-Report/blob/master/pom.xml)
+ ###### Note: Repositories section is requried for running Renjin
 
 
-#### :fast_forward:Option 2: I have provide the [code](https://github.com/justinphan3110/Battery-Health-Report/blob/master/BatteryReport.java) and neccessary [lib folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib) to implement this in any IDE. You can make a java class name BatteryReport.java and a folder name lib in the project folder
-
-In this [Lib folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib), copy all of the requirement .jar file to it. You can download them directly from this Repositories or I provide the link to download each of them below
-
-![image](https://user-images.githubusercontent.com/44376091/52917775-5a7f2300-32bd-11e9-8e0c-09a1ebe35275.png)
-
-And add it into Eclipse project library
-
-![image](https://user-images.githubusercontent.com/44376091/52918141-d3807980-32c1-11e9-850f-3a22c52be257.png)
-
-![image](https://user-images.githubusercontent.com/44376091/52918146-ee52ee00-32c1-11e9-9e61-456b435f805a.png)
 
 # Download
 
