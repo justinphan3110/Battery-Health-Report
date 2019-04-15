@@ -3,7 +3,9 @@ USING R AND JAVA to Get and Analyzed your laptop battery health report. Compare 
 
 The battery capacity will decrease over time. This application will help you to track the current capacity compared to the design capacity
 
-### Click here to got to [Install](#Installing) and [Download](#Download) section
+#### :arrow_forward: Click here to got to [Install](#Installing) and [Download](#Download) section
+
+## :notebook: Demo
 
 click Scan
 
@@ -71,8 +73,8 @@ Most of the API is build based on javaFX
 
 
 # Installing
-#### Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and unzip the withJava.zip if your computer have Java (64-bit) installed OR unzip the NoJava.zip if your computer does not have java installed 
-###### (note: keep the jar and the .exe file in the same folder).
+#### :fast_forward:Option 1: Download the [BatteryHealthReport folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/BatteryHealthReport) and unzip the withJava.zip if your computer have Java (64-bit) installed OR unzip the NoJava.zip if your computer does not have java installed 
+###### (:heavy_exclamation_mark:note: keep the jar and the .exe file in the same folder).
 
 ![image](https://user-images.githubusercontent.com/44376091/53507163-5a351380-3a85-11e9-8fc9-1ac4db75581e.png)
 
@@ -85,7 +87,7 @@ Most of the API is build based on javaFX
 
 
 
-#### Option 2: I have provide the [code](https://github.com/justinphan3110/Battery-Health-Report/blob/master/BatteryReport.java) and neccessary [lib folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib) to implement this in any IDE. You can make a java class name BatteryReport.java and a folder name lib in the project folder
+#### :fast_forward:Option 2: I have provide the [code](https://github.com/justinphan3110/Battery-Health-Report/blob/master/BatteryReport.java) and neccessary [lib folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib) to implement this in any IDE. You can make a java class name BatteryReport.java and a folder name lib in the project folder
 
 In this [Lib folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib), copy all of the requirement .jar file to it. You can download them directly from this Repositories or I provide the link to download each of them below
 
@@ -99,27 +101,28 @@ And add it into Eclipse project library
 
 # Download
 
-#### [Code](https://github.com/justinphan3110/Battery-Health-Report/blob/master/BatteryReport.java) and [Lib Folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib)
+
+#### :arrow_down: [Code](https://github.com/justinphan3110/Battery-Health-Report/blob/master/BatteryReport.java) and :arrow_down: [Lib Folder](https://github.com/justinphan3110/Battery-Health-Report/tree/master/lib)
 
 ##### Or you can download each of the dependencies straight from the web for updated
 
 ![image](https://user-images.githubusercontent.com/44376091/52910412-0f392600-3265-11e9-8e7b-a26dc0184ba1.png)
 
-[jsoup](https://jsoup.org/download): for the purpose of parsing and reading the html file.
+:one: [jsoup](https://jsoup.org/download): for the purpose of parsing and reading the html file.
 
-[opencsv](https://sourceforge.net/projects/opencsv/): can be used to write and read csv file 
+:two: [opencsv](https://sourceforge.net/projects/opencsv/): can be used to write and read csv file 
 
-[Renjin](http://www.renjin.org/downloads.html): using JVM to intergrate Java and R for better data analysize (note: user does not need to have R installed on computer when using Renjin)
+:three: [Renjin](http://www.renjin.org/downloads.html): using JVM to intergrate Java and R for better data analysize (note: user does not need to have R installed on computer when using Renjin)
 
-[JRI](https://www.rforge.net/JRI/files/): user can used JRI for the familiar if Renjin is still new
+:four: [JRI](https://www.rforge.net/JRI/files/): user can used JRI for the familiar if Renjin is still new
 
-[JCommon](https://jar-download.com/artifacts/org.jfree/jcommon) and [JFreeChart](http://www.jfree.org/jfreechart/download.html):  for the purpose of drawing the plot
+:five: [JCommon](https://jar-download.com/artifacts/org.jfree/jcommon) and :six: [JFreeChart](http://www.jfree.org/jfreechart/download.html):  for the purpose of drawing the plot
 
 
 
 
  
-## Built With
+## :link: Built With
 * [Renjin](http://www.renjin.org/)
 * [Renjin Document and Instruction](http://docs.renjin.org/en/latest/)
 * [JSoup](https://jsoup.org/)
