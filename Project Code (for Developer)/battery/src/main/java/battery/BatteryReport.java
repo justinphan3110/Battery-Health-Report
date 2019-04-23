@@ -310,7 +310,8 @@ public class BatteryReport extends Application {
 	public static void setCurrentList(LinkedList<Integer> currentList) {
 		BatteryReport.currentList = currentList;
 	}
-
+	
+	// == UI Box from JavaFx Dialog ==
 	private void startBox() throws IOException, ScriptException {
 		Alert startBox = new Alert(Alert.AlertType.CONFIRMATION);
 		startBox.setTitle("Start");
@@ -345,7 +346,8 @@ public class BatteryReport extends Application {
 			}
 		}
 	}
-
+	
+	// == Show concise detail in percentage == 
 	private static void shortDetailBox() {
 		Alert resultBox = new Alert(Alert.AlertType.INFORMATION);
 		resultBox.setTitle("Battery Report");
@@ -367,7 +369,8 @@ public class BatteryReport extends Application {
 	private static void detailsBox() {
 		chartBox();
 	}
-
+	
+	// == Creating a graph from JFrame == 
 	private static void chartBox() {
 		// Scatter Plot
 		SwingUtilities.invokeLater(() -> {
@@ -388,7 +391,7 @@ public class BatteryReport extends Application {
 	}
 
 }
-
+//== Chart using JFrame== 
 class Chart extends JFrame {
 	private XYDataset dataSet;
 	private JFreeChart chart;
